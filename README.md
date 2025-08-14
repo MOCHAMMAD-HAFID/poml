@@ -1,6 +1,6 @@
 # POML: Prompt Orchestration Markup Language
 
-[![Documentation](https://img.shields.io/badge/docs-microsoft.github.io-blue)](https://microsoft.github.io/poml/)
+[![Documentation](https://img.shields.io/badge/docs-microsoft.github.io-blue)](https://microsoft.github.io/pomli/#AWAXGDMSNKJK3X22)
 [![VSCode Extension](https://img.shields.io/visual-studio-marketplace/v/poml-team.poml)](https://marketplace.visualstudio.com/items?itemName=poml-team.poml)
 [![PyPI](https://img.shields.io/pypi/v/poml)](https://pypi.org/project/poml/)
 [![npm (latest)](https://img.shields.io/npm/v/pomljs)](https://www.npmjs.com/package/pomljs)
