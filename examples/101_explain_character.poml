@@ -10,6 +10,26 @@
     <!-- Document can be used to import a word document, a PDF or a pure text. -->
     <Document src="assets/101_tom_and_jerry.docx"/>
   </hint>
+  <!-- Use properties like captionStyle and caption to customize your prompt style. -->
+  <hint captionStyle="header" caption="Background Knowledge">
+    <!-- Document can be used to import a word document, a PDF or a pure text. -->
+    <Document src="assets/101_tom_and_jerry.docx"/>
+  </hint>
+  <!-- Use properties like captionStyle and caption to customize your prompt style. -->
+  <hint captionStyle="header" caption="Background Knowledge">
+    <!-- Document can be used to import a word document, a PDF or a pure text. -->
+    <Document src="assets/101_tom_and_jerry.docx"/>
+  </hint>
+  <!-- Use properties like captionStyle and caption to customize your prompt style. -->
+  <hint captionStyle="header" caption="Background Knowledge">
+    <!-- Document can be used to import a word document, a PDF or a pure text. -->
+    <Document src="assets/101_tom_and_jerry.docx"/>
+  </hint>
+  <!-- Use properties like captionStyle and caption to customize your prompt style. -->
+  <hint captionStyle="header" caption="Background Knowledge">
+    <!-- Document can be used to import a word document, a PDF or a pure text. -->
+    <Document src="assets/101_tom_and_jerry.docx"/>
+  </hint>
 
   <!-- Organize few-shot examples with example. This will automatically generates an interaction of human and AI messages. -->
   <example>
